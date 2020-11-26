@@ -30,22 +30,4 @@ export default class About extends Component {
         );
     }
 }
-    // state = {
-    //     user: null
-    // };
-    // this would be the traditional way of getting this data
-    // how do we do it with server side rendering?
-    // componentDidMount() {
-    //     fetch('https://api.github.com/users/rinafleisch')
-    //         .then(res => res.json())
-    //         .then(data => {
-    //             this.setState({
-    //                 user: data
-    //             });
-    //         })
-    // }
-            // fetch("https://api.github.com/users/rinafleisch")
-        //     .then(res => res.json())
-        //     .then(data => {
-        //         console.log(data);
-        //     });
+
