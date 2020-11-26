@@ -15,6 +15,7 @@ const Blog = () => (
             <PostLink slug="using-react" title="Using React" />
             <PostLink slug="using-angular" title="Angular" />
             <PostLink slug="using-vue" title="Vue" />
+            <PostLink slug="data-science-for-fun" title="Data Science for Fun" />
         </ul>
     </Layout>
 );
